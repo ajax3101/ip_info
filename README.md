@@ -29,3 +29,4 @@ To install the package run the following command:
 $ pip install -r requirements.txt
 $ python main.py
 ```
+![Иллюстрация к проекту](https://github.com/ajax3101/ip_info/blob/main/194.8.51.161_Zaporizhzhia.png)
