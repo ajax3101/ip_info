@@ -2,7 +2,7 @@ from urllib import request, response
 import requests
 
 
-def get_info_ip (ip='127.0.0.1'):
+def get_info_ip(ip='127.0.0.1'):
     try:
         response = requests.get(url='http://ip-api.com/json/{ip}').json()
         print(response)
